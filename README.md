@@ -1,3 +1,3 @@
 # git_test
-
-some sick stuff
+Another github repo
+Hello Odin!
